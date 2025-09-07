@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Lessons\A_CodeBehind.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Lessons\B_GridControl.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Lessons\E_OnProperty.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Lessons\F_ListView.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Lessons\G_Observable.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Lessons\H_StackPanel.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Lessons\I_GridSplitter.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Lessons\J_Expander.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Lessons\K_ScrollView.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Lessons\L_CustomAppWin.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Lessons\M_OpeningWindows.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Lessons\N_ReusableStyles.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Lessons\O_StyleTemplates.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Lessons\UserControls\CustomizedTextbox.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Lessons\UserControls\MenuBar.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Lessons\C_UserControl.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Lessons\D_CustomTextbox.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Lessons\Views\ModalWindow.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Lessons\Views\NormalWindow.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,29 @@
+﻿<Window x:Class="J_Expander"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfVBTutorial"
+        mc:Ignorable="d"
+        Title="J_Expander" Height="400" Width="400">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel>
+            <TextBlock Text="User name" FontSize="16"/>
+            <TextBlock Text="I am not gay" FontSize="16"/>
+            <!--<Expander Header="User Details" Grid.Column="1">
+                <TextBlock Text="I am not gay" FontSize="16"/>
+            </Expander>-->
+            <Button HorizontalAlignment="Center" Width="100" Height="50" Content="Expand"
+                    Click="Button_Click"/>
+        </StackPanel>
+        <Expander Name="expMenu" Grid.Column="1" ExpandDirection="Left">
+            <Rectangle  Fill="Gray" Width="125"/>
+        </Expander>
+        
+    </Grid>
+</Window>

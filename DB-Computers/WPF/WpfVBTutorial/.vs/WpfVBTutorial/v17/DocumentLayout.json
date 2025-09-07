@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\source\\repos\\WpfVBTutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1326B41C-86DB-4860-8D56-3EA81CE8D73B}|WpfVBTutorial\\WpfVBTutorial.vbproj|c:\\users\\migue\\source\\repos\\wpfvbtutorial\\wpfvbtutorial\\lessons\\e_onproperty.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1326B41C-86DB-4860-8D56-3EA81CE8D73B}|WpfVBTutorial\\WpfVBTutorial.vbproj|solutionrelative:wpfvbtutorial\\lessons\\e_onproperty.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1326B41C-86DB-4860-8D56-3EA81CE8D73B}|WpfVBTutorial\\WpfVBTutorial.vbproj|c:\\users\\migue\\source\\repos\\wpfvbtutorial\\wpfvbtutorial\\lessons\\d_customtextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1326B41C-86DB-4860-8D56-3EA81CE8D73B}|WpfVBTutorial\\WpfVBTutorial.vbproj|solutionrelative:wpfvbtutorial\\lessons\\d_customtextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "E_OnProperty.xaml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\WpfVBTutorial\\WpfVBTutorial\\Lessons\\E_OnProperty.xaml",
+              "RelativeDocumentMoniker": "WpfVBTutorial\\Lessons\\E_OnProperty.xaml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\WpfVBTutorial\\WpfVBTutorial\\Lessons\\E_OnProperty.xaml",
+              "RelativeToolTip": "WpfVBTutorial\\Lessons\\E_OnProperty.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-16T08:36:38.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "D_CustomTextbox.xaml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\WpfVBTutorial\\WpfVBTutorial\\Lessons\\D_CustomTextbox.xaml",
+              "RelativeDocumentMoniker": "WpfVBTutorial\\Lessons\\D_CustomTextbox.xaml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\WpfVBTutorial\\WpfVBTutorial\\Lessons\\D_CustomTextbox.xaml",
+              "RelativeToolTip": "WpfVBTutorial\\Lessons\\D_CustomTextbox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-16T08:35:58.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

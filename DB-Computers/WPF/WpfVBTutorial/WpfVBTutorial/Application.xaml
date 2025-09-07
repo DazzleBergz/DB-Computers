@@ -1,0 +1,17 @@
+﻿<Application x:Class="Application"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfVBTutorial">
+             <!-- StartupUri="MainWindow.xaml" remove this or change xaml file-->
+             
+    <Application.Resources>
+         <!-- Where we can make reusable style resources -->
+        <!-- Merging all styles resources -->
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Lessons/Styles/Buttons.xaml"/>
+                <ResourceDictionary Source="/Lessons/Styles/TextBoxes.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

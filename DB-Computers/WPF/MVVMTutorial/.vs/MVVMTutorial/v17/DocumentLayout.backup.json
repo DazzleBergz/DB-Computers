@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\source\\repos\\MVVMTutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59948846-7E08-4DCD-9AC5-B6A68BB23A96}|MVVMTutorial\\MVVMTutorial.vbproj|c:\\users\\migue\\source\\repos\\mvvmtutorial\\mvvmtutorial\\viewmodel\\mainwindowviewmodel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{59948846-7E08-4DCD-9AC5-B6A68BB23A96}|MVVMTutorial\\MVVMTutorial.vbproj|solutionrelative:mvvmtutorial\\viewmodel\\mainwindowviewmodel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59948846-7E08-4DCD-9AC5-B6A68BB23A96}|MVVMTutorial\\MVVMTutorial.vbproj|c:\\users\\migue\\source\\repos\\mvvmtutorial\\mvvmtutorial\\mainwindow.xaml.vb||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{59948846-7E08-4DCD-9AC5-B6A68BB23A96}|MVVMTutorial\\MVVMTutorial.vbproj|solutionrelative:mvvmtutorial\\mainwindow.xaml.vb||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59948846-7E08-4DCD-9AC5-B6A68BB23A96}|MVVMTutorial\\MVVMTutorial.vbproj|c:\\users\\migue\\source\\repos\\mvvmtutorial\\mvvmtutorial\\base\\relaycommand.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{59948846-7E08-4DCD-9AC5-B6A68BB23A96}|MVVMTutorial\\MVVMTutorial.vbproj|solutionrelative:mvvmtutorial\\base\\relaycommand.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59948846-7E08-4DCD-9AC5-B6A68BB23A96}|MVVMTutorial\\MVVMTutorial.vbproj|c:\\users\\migue\\source\\repos\\mvvmtutorial\\mvvmtutorial\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59948846-7E08-4DCD-9AC5-B6A68BB23A96}|MVVMTutorial\\MVVMTutorial.vbproj|solutionrelative:mvvmtutorial\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\MVVMTutorial\\MVVMTutorial\\MainWindow.xaml.vb",
+              "RelativeDocumentMoniker": "MVVMTutorial\\MainWindow.xaml.vb",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\MVVMTutorial\\MVVMTutorial\\MainWindow.xaml.vb",
+              "RelativeToolTip": "MVVMTutorial\\MainWindow.xaml.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-23T11:28:42.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelayCommand.vb",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\MVVMTutorial\\MVVMTutorial\\Base\\RelayCommand.vb",
+              "RelativeDocumentMoniker": "MVVMTutorial\\Base\\RelayCommand.vb",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\MVVMTutorial\\MVVMTutorial\\Base\\RelayCommand.vb",
+              "RelativeToolTip": "MVVMTutorial\\Base\\RelayCommand.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-17T13:11:42.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowViewModel.vb",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\MVVMTutorial\\MVVMTutorial\\ViewModel\\MainWindowViewModel.vb",
+              "RelativeDocumentMoniker": "MVVMTutorial\\ViewModel\\MainWindowViewModel.vb",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\MVVMTutorial\\MVVMTutorial\\ViewModel\\MainWindowViewModel.vb",
+              "RelativeToolTip": "MVVMTutorial\\ViewModel\\MainWindowViewModel.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-17T12:07:00.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\MVVMTutorial\\MVVMTutorial\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MVVMTutorial\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\MVVMTutorial\\MVVMTutorial\\MainWindow.xaml",
+              "RelativeToolTip": "MVVMTutorial\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-16T14:35:08.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

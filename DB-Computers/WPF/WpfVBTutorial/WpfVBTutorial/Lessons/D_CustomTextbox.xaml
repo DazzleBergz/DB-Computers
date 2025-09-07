@@ -1,0 +1,28 @@
+﻿<Window x:Class="D_CustomTextbox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfVBTutorial"
+        xmlns:userControls="clr-namespace:WpfVBTutorial.UserControls"
+        mc:Ignorable="d"
+        Title="D_CustomTextbox" Height="400" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <userControls:CustomizedTextbox Width="250" Height="40" Placeholder="Frist Name"/>
+        <userControls:CustomizedTextbox Grid.Row="1" Width="250" Height="40" Placeholder="Middle Name"/>
+        <userControls:CustomizedTextbox Grid.Row="2" Width="250" Height="40" Placeholder="Last Name"/>
+        <userControls:CustomizedTextbox Grid.Row="3" Width="250" Height="40" Placeholder="Address"/>
+        <userControls:CustomizedTextbox Grid.Row="4" Width="250" Height="40" Placeholder="Contact Number"/>
+        <userControls:CustomizedTextbox Grid.Row="5" Width="250" Height="40" Placeholder="Marital Status"/>
+
+    </Grid>
+</Window>
